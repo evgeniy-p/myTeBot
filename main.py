@@ -2,7 +2,6 @@ import asyncio
 import aiohttp
 import conf
 from aiohttp import web
-
 import json
 
 TOKEN = conf.TOKEN
